@@ -1,0 +1,15 @@
+{
+  "name": "jquery-final-countdown-master",
+  "version": "1.0.0",
+  "description": "jQuery Final Countdown ======================",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renan Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^15.2.1",
+    "react": "^17.0.1"
+  }
+}
